@@ -1,0 +1,70 @@
+set autocopy 0
+set autoselect 1
+set autosellen 40
+set bgcolor #212121
+set circlecolors {white #89DDFF #9AA7B0 #89DDFF #89DDFF}
+set circleoutlinecolor #1A1A1A
+set cmitmode patch
+set colors {#C3E88D #FF5370 #82AAFF #C792EA #466D94 #AB7967 #F78C6C}
+set currentsearchhitbgcolor #FF9800
+set datetimeformat {%Y-%m-%d %H:%M:%S}
+set diffbgcolors {"#fff3f3" "#f0fff0"}
+set diffcolors {#FF5370 #12ac65 #89DDFF}
+set diffcontext 5
+set extdifftool opendiff
+set fgcolor #B0BEC5
+set filesepbgcolor #545556
+set filesepfgcolor #A7A7A7
+set findmergefiles 0
+set foundbgcolor #466D94
+set headbgcolor #C3E88D
+set headfgcolor #1A1A1A
+set headoutlinecolor #1A1A1A
+set hideremotes 0
+set indexcirclecolor #C3E88D
+set kscroll 3
+set limitdiffs 1
+set linehoverbgcolor #ffff80
+set linehoverfgcolor black
+set linehoveroutlinecolor black
+set linkfgcolor #FFCB6B
+set mainfont {{Zed Mono} 10}
+set mainheadcirclecolor #FFCB6B
+set markbgcolor #212121
+set maxgraphpct 50
+set maxrefs 20
+set maxwidth 16
+set mergecolors {#FF5370 #C792EA #C3E88D #C792EA #F78C6C #89DDFF #F07178 #FFCB6B #89DDFF #F07178 #89DDFF #F78C6C #89DDFF #C3E88D #F78C6C #F07178}
+set perfile_attrs 0
+set reflinecolor #EEFFFF
+set refstohide {}
+set remotebgcolor #F78C6C
+set selectbgcolor #606060
+set showlocalchanges 1
+set showneartags 1
+set sortrefsbytype 1
+set tabstop 4
+set tagbgcolor #FF9800
+set tagfgcolor #1A1A1A
+set tagoutlinecolor #1A1A1A
+set textfont {{Zed Mono} 10}
+set theme vista
+set themeloader {}
+set uicolor #474747
+set uifgcolor #B0BEC5
+set uifgdisabledcolor #727272
+set uifont {{Zed Mono} 10}
+set visiblerefs {"master"}
+set web_browser open
+set workingfilescirclecolor #FF5370
+set wrapcomment none
+set wrapdefault none
+set geometry(main) 1575x794+78+78
+set geometry(state) normal
+set geometry(topwidth) 1575
+set geometry(topheight) 579
+set geometry(pwsash0) "1133 1"
+set geometry(pwsash1) "1324 1"
+set geometry(botwidth) 830
+set geometry(botheight) 210
+set permviews {}
